@@ -1,4 +1,6 @@
 testfile1
+<<<<<<< HEAD
 edited by test1user
+=======
 tiki
-
+>>>>>>> test2
